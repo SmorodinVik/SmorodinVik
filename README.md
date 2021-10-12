@@ -2,7 +2,7 @@
 
 - 👨‍🦱 I'm Viktor
 - 🔥 I'm 33 year old
-- 🚙 I'm from Saint-Petersburg, Russia and now moving to Moscow
+- 🏠 I'm from Saint-Petersburg, Russia
 - 🔭 I’m currently studying at [Hexlet](https://hexlet.io) courses
 - 🌱 I’m currently learning JavaScript, React, Redux, HTML, CSS and a little bit Ruby
 - 🤔 I’m looking for my first work in frontend
