@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍🦱 I'm Viktor
-- 🔥 I'm 33 year old
+- 🔥 I'm 34 year old
 - 🏠 I'm from Saint-Petersburg, Russia
 - 🔭 I’m currently studying at [Hexlet](https://hexlet.io) courses
 - 🌱 I’m currently learning JavaScript, React, Redux, HTML, CSS and a little bit Ruby
