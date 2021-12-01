@@ -14,7 +14,7 @@
 
 [OnPoint test](https://github.com/SmorodinVik/OnPointTest) - Test project for onPoint company. Online presentation created with react, without any third-party libraries. Optimized for iPad and Google Chrome. Only horizontal swiping is available.
 
-[Chat](https://github.com/SmorodinVik/smorodina-chat) - This is a real-time application built using react (with hooks), redux toolkit, bootstrap. The interface is similar to Slack chat.
+[Chat](https://github.com/SmorodinVik/smorodina-chat) - This is a real-time application, built using react (with hooks), redux toolkit, bootstrap. The interface is similar to Slack chat.
 
 [RSS-aggregator](https://github.com/SmorodinVik/rss-aggregator) - A web application for collecting and reading RSS feeds. This project is developed by using MVC design pattern.
 
