@@ -10,7 +10,7 @@
 - 📷 Fact about me: I worked as photogrepher for 10 years
 
 ### My latest projects:
-[Book Finder](https://github.com/SmorodinVik/bookfinder) - React application, that uses Google Books API to search for books
+[Book Finder](https://github.com/SmorodinVik/bookfinder) - React application, that uses Google Books API to search for books.
 
 [OnPoint test](https://github.com/SmorodinVik/OnPointTest) - Test project for onPoint company. Online presentation created with react, without any third-party libraries. Optimized for iPad and Google Chrome. Only horizontal swiping is available.
 
