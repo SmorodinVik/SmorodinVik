@@ -18,7 +18,7 @@
 
 [RSS-aggregator](https://github.com/SmorodinVik/rss-aggregator) - A web application for collecting and reading RSS feeds. This project is developed by using MVC design pattern.
 
-[GenDiff](https://github.com/SmorodinVik/gendiff) - CLI utility for finding differences in configuration files like .json & .yaml/yml and show the difference
+[GenDiff](https://github.com/SmorodinVik/gendiff) - CLI utility for finding differences in configuration files like .json & .yaml/yml and show the difference.
 
 [Brain-Games](https://github.com/SmorodinVik/brain-games) - The collection of CLI arithmetic games.
 
