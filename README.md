@@ -20,7 +20,7 @@
 
 [GenDiff](https://github.com/SmorodinVik/gendiff) - CLI utility for finding differences in configuration files like .json & .yaml/yml and show the difference.
 
-[Brain-Games](https://github.com/SmorodinVik/brain-games) - The collection of CLI arithmetic games.
+[Brain-Games](https://github.com/SmorodinVik/brain-games) - The collection of CLI arithmetic games
 
 
 
