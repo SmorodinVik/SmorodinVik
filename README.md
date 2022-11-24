@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍🦱 I'm Viktor
-- 🔥 I'm 34 year old
+- 🔥 I'm 35 year old
 - 🔭 I’m currently working at Byndyusoft company
 - 📫 How to reach me: v.smorodinaspb@gmail.com
 - 📷 Fact about me: I worked as photogrepher for 10 years
