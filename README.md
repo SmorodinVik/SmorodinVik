@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 👨‍🦱 I'm Viktor
-- 🔥 I'm 35 year old
+- 🔥 35 years old
+- ⌨️ Frontend Developer (TypeScript/React/HTML/CSS)
 - 🔭 I’m currently working at Byndyusoft company
 - 📫 How to reach me: v.smorodinaspb@gmail.com
 
