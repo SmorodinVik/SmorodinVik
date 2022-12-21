@@ -4,7 +4,6 @@
 - 🔥 I'm 35 year old
 - 🔭 I’m currently working at Byndyusoft company
 - 📫 How to reach me: v.smorodinaspb@gmail.com
-- 📷 Fact about me: I worked as photogrepher for 10 years
 
 ### My latest projects:
 [Book Finder](https://github.com/SmorodinVik/bookfinder) - React application, that uses Google Books API to search for books.
