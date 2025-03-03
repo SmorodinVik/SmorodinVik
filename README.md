@@ -5,5 +5,3 @@
 - ⌨️ Frontend Developer (TypeScript/React/Vue/HTML/CSS)
 - 🔭 I’m currently working at Byndyusoft company
 - 📫 How to reach me: v.smorodinaspb@gmail.com
-
-![Profile views](https://gpvc.arturio.dev/SmorodinVik)
